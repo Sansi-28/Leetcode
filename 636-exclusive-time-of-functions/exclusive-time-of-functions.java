@@ -24,7 +24,7 @@ class Solution {
                 st.push(id);
                 time = t;
 
-            } else { 
+            } else {
 
                 mp.put(st.peek(),
                        mp.getOrDefault(st.peek(), 0) + (t - time + 1));
