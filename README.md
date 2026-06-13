@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sansi-28/Leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Sansi-28/Leetcode/tree/master/0050-powx-n) |
 | [2032-largest-odd-number-in-string](https://github.com/Sansi-28/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/Sansi-28/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sansi-28/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
