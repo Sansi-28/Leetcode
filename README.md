@@ -63,4 +63,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sansi-28/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Sansi-28/Leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Sansi-28/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
