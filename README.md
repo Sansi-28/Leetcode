@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sansi-28/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Sansi-28/Leetcode/tree/master/0050-powx-n) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Sansi-28/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Sansi-28/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0242-valid-anagram](https://github.com/Sansi-28/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Sansi-28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sansi-28/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Sansi-28/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0943-sum-of-subarray-minimums](https://github.com/Sansi-28/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sansi-28/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sansi-28/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Sansi-28/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,9 +97,11 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Sansi-28/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sansi-28/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Sansi-28/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Sansi-28/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sansi-28/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Sansi-28/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
