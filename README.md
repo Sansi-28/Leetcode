@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sansi-28/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Sansi-28/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Sansi-28/Leetcode/tree/master/0062-unique-paths) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sansi-28/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Sansi-28/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## String
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sansi-28/Leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Sansi-28/Leetcode/tree/master/0062-unique-paths) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sansi-28/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Backtracking
 |  |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0966-binary-subarrays-with-sum](https://github.com/Sansi-28/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sansi-28/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sansi-28/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sansi-28/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
