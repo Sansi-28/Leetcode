@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0022-generate-parentheses](https://github.com/Sansi-28/Leetcode/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/Sansi-28/Leetcode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Sansi-28/Leetcode/tree/master/0812-rotate-string) |
+| [1250-longest-common-subsequence](https://github.com/Sansi-28/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2032-largest-odd-number-in-string](https://github.com/Sansi-28/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0494-target-sum](https://github.com/Sansi-28/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sansi-28/Leetcode/tree/master/0518-coin-change-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sansi-28/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1250-longest-common-subsequence](https://github.com/Sansi-28/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
