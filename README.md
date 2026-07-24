@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sansi-28/Leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Sansi-28/Leetcode/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/Sansi-28/Leetcode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/Sansi-28/Leetcode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Sansi-28/Leetcode/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/Sansi-28/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sansi-28/Leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Sansi-28/Leetcode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/Sansi-28/Leetcode/tree/master/0072-edit-distance) |
 | [0322-coin-change](https://github.com/Sansi-28/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Sansi-28/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sansi-28/Leetcode/tree/master/0494-target-sum) |
