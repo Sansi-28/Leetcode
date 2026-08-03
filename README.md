@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sansi-28/Leetcode/tree/master/0013-roman-to-integer) |
+| [0146-lru-cache](https://github.com/Sansi-28/Leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Sansi-28/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Sansi-28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sansi-28/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Sansi-28/Leetcode/tree/master/0146-lru-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/Sansi-28/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Sansi-28/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Sansi-28/Leetcode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Sansi-28/Leetcode/tree/master/0322-coin-change) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sansi-28/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
