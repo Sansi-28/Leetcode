@@ -3,15 +3,9 @@ class Solution {
         Queue<String> q = new LinkedList<>();
         int n = wordList.size();
         boolean[] isVisited = new boolean[n];
+        q.offer(beginWord);
 
-        for (int i = 0; i < n; i++) {
-            if (isValid(wordList.get(i), beginWord)) {
-                q.offer(wordList.get(i));
-                isVisited[i] = true;
-            }
-        }
-
-        int val = 2;
+        int val = 1;
         while (!q.isEmpty()) {
             int size = q.size();
             for (int k = 0; k < size; k++) {
