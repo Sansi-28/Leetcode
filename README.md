@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0022-generate-parentheses](https://github.com/Sansi-28/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Sansi-28/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Sansi-28/Leetcode/tree/master/0072-edit-distance) |
+| [0127-word-ladder](https://github.com/Sansi-28/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Sansi-28/Leetcode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Sansi-28/Leetcode/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/Sansi-28/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sansi-28/Leetcode/tree/master/0013-roman-to-integer) |
+| [0127-word-ladder](https://github.com/Sansi-28/Leetcode/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/Sansi-28/Leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Sansi-28/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Sansi-28/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0100-same-tree](https://github.com/Sansi-28/Leetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sansi-28/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sansi-28/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Sansi-28/Leetcode/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/Sansi-28/Leetcode/tree/master/0322-coin-change) |
 ## Doubly-Linked List
 |  |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Sansi-28/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Sansi-28/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
