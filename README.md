@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1046-max-consecutive-ones-iii](https://github.com/Sansi-28/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sansi-28/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sansi-28/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1753-path-with-minimum-effort](https://github.com/Sansi-28/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Sansi-28/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sansi-28/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1753-path-with-minimum-effort](https://github.com/Sansi-28/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [4048-minimum-time-to-complete-all-deliveries](https://github.com/Sansi-28/Leetcode/tree/master/4048-minimum-time-to-complete-all-deliveries) |
 ## Sliding Window
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0207-course-schedule](https://github.com/Sansi-28/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sansi-28/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Sansi-28/Leetcode/tree/master/0322-coin-change) |
+| [1753-path-with-minimum-effort](https://github.com/Sansi-28/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0207-course-schedule](https://github.com/Sansi-28/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sansi-28/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/Sansi-28/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/Sansi-28/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -229,4 +233,20 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sansi-28/Leetcode/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/Sansi-28/Leetcode/tree/master/1753-path-with-minimum-effort) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/Sansi-28/Leetcode/tree/master/1753-path-with-minimum-effort) |
+## Matrix
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/Sansi-28/Leetcode/tree/master/1753-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/Sansi-28/Leetcode/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
