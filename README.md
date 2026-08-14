@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0044-wildcard-matching](https://github.com/Sansi-28/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Sansi-28/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sansi-28/Leetcode/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/Sansi-28/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Sansi-28/Leetcode/tree/master/0455-assign-cookies) |
 | [2032-largest-odd-number-in-string](https://github.com/Sansi-28/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0072-edit-distance](https://github.com/Sansi-28/Leetcode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sansi-28/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/Sansi-28/Leetcode/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Sansi-28/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sansi-28/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sansi-28/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sansi-28/Leetcode/tree/master/0518-coin-change-ii) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0045-jump-game-ii](https://github.com/Sansi-28/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sansi-28/Leetcode/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/Sansi-28/Leetcode/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Sansi-28/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sansi-28/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Sansi-28/Leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Sansi-28/Leetcode/tree/master/0494-target-sum) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Sansi-28/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sansi-28/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sansi-28/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sansi-28/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Sansi-28/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sansi-28/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sansi-28/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sansi-28/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
