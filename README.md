@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0943-sum-of-subarray-minimums](https://github.com/Sansi-28/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sansi-28/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sansi-28/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sansi-28/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sansi-28/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sansi-28/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1753-path-with-minimum-effort](https://github.com/Sansi-28/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Sansi-28/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sansi-28/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sansi-28/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1753-path-with-minimum-effort](https://github.com/Sansi-28/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [4048-minimum-time-to-complete-all-deliveries](https://github.com/Sansi-28/Leetcode/tree/master/4048-minimum-time-to-complete-all-deliveries) |
