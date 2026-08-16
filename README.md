@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sansi-28/Leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Sansi-28/Leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Sansi-28/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Sansi-28/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Sansi-28/Leetcode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Sansi-28/Leetcode/tree/master/0127-word-ladder) |
