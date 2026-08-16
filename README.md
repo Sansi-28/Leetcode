@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0127-word-ladder](https://github.com/Sansi-28/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Sansi-28/Leetcode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Sansi-28/Leetcode/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sansi-28/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/Sansi-28/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2032-largest-odd-number-in-string](https://github.com/Sansi-28/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0055-jump-game](https://github.com/Sansi-28/Leetcode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Sansi-28/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Sansi-28/Leetcode/tree/master/0455-assign-cookies) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sansi-28/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/Sansi-28/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0155-min-stack](https://github.com/Sansi-28/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Sansi-28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sansi-28/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sansi-28/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
@@ -256,4 +259,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/Sansi-28/Leetcode/tree/master/1753-path-with-minimum-effort) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sansi-28/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
