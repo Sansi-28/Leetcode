@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0812-rotate-string](https://github.com/Sansi-28/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sansi-28/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/Sansi-28/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1508-longest-happy-prefix](https://github.com/Sansi-28/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [2032-largest-odd-number-in-string](https://github.com/Sansi-28/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Sansi-28/Leetcode/tree/master/0812-rotate-string) |
+| [1508-longest-happy-prefix](https://github.com/Sansi-28/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -264,4 +266,20 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sansi-28/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/Sansi-28/Leetcode/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/Sansi-28/Leetcode/tree/master/1508-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/Sansi-28/Leetcode/tree/master/1508-longest-happy-prefix) |
+## KnuthâMorrisâPratt Algorithm
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/Sansi-28/Leetcode/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
