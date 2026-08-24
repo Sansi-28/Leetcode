@@ -278,8 +278,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Sansi-28/Leetcode/tree/master/1508-longest-happy-prefix) |
-## KnuthâMorrisâPratt Algorithm
+## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Sansi-28/Leetcode/tree/master/1508-longest-happy-prefix) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Sansi-28/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
