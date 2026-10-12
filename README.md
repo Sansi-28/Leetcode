@@ -287,7 +287,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Sansi-28/Leetcode/tree/master/1508-longest-happy-prefix) |
-## KnuthÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Sansi-28/Leetcode/tree/master/1508-longest-happy-prefix) |
@@ -295,4 +295,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Sansi-28/Leetcode/tree/master/0176-second-highest-salary) |
+| [1258-article-views-i](https://github.com/Sansi-28/Leetcode/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
