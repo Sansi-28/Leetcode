@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sansi-28/Leetcode/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/Sansi-28/Leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Sansi-28/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Sansi-28/Leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Sansi-28/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Sansi-28/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0040-combination-sum-ii](https://github.com/Sansi-28/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Sansi-28/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sansi-28/Leetcode/tree/master/0055-jump-game) |
+| [0128-longest-consecutive-sequence](https://github.com/Sansi-28/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/Sansi-28/Leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Sansi-28/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sansi-28/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sansi-28/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1753-path-with-minimum-effort](https://github.com/Sansi-28/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
@@ -290,7 +293,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Sansi-28/Leetcode/tree/master/1508-longest-happy-prefix) |
-## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Sansi-28/Leetcode/tree/master/1508-longest-happy-prefix) |
