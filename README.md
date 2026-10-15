@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sansi-28/Leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Sansi-28/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Sansi-28/Leetcode/tree/master/0455-assign-cookies) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Sansi-28/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sansi-28/Leetcode/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/Sansi-28/Leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Sansi-28/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sansi-28/Leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Sansi-28/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sansi-28/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Sansi-28/Leetcode/tree/master/0045-jump-game-ii) |
@@ -287,7 +290,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Sansi-28/Leetcode/tree/master/1508-longest-happy-prefix) |
-## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Sansi-28/Leetcode/tree/master/1508-longest-happy-prefix) |
